@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+My name is Wison Clasara.
+
+- Currently working on my B.S. in Computer Science in Oregon State University.
+- My hobbies are running and biking.
+- Pronouns: he/him
 <!--
 **wclasara/wclasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
